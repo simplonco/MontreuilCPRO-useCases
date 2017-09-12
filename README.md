@@ -18,7 +18,7 @@
 * http://docs.staruml.io/en/latest/modeling-with-uml/working-with-use-case-diagram.html
 * http://laurent-audibert.developpez.com/Cours-UML/?page=diagramme-cas-utilisation
 
-## Exercice :
+## Exercices :
 
 - Distributeur de boisson
 - Distributeur de billet
